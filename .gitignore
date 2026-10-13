@@ -46,6 +46,7 @@ build-*/
 
 .vscode
 
+secret.txt
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
